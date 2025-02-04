@@ -41,8 +41,7 @@ List Mechine LLM yg dimiliki ollama  dapat dilihat akses di https://ollama.com/s
 
 Sebagai contoh akan mendownload Mechine Learning LLM LLAM Version 2
 
-<pre><code>
-ollama run llama2:7b </code></pre>
+<pre><code>ollama run llama2:7b </code></pre>
 
 ![ss](./ss/ss-7-olama-pull.png)
 
@@ -51,10 +50,48 @@ ollama run llama2:7b </code></pre>
 
 Hidupkan Server Ollama
 
-<pre><code>
-ollama serve </code></pre>
+<pre><code>ollama serve </code></pre>
 
 ![ss](./ss/ss-7-ollama-serve.png)
+
+
+## 3. Ollama List Model LLM
+
+Cek model LLM yg telah di pull ke server ollama
+
+<pre><code>ollama list </code></pre>
+
+![ss](./ss/ss-8-ollama-list.png)
+
+
+## 4. Running AI - ML - LLM - Llama 2
+
+Hidupkan AI - ML - LLM - Llama 2
+
+<pre><code>ollama run llama2:7b</code></pre>
+
+![ss](./ss/ss-9-ollama-run.png)
+
+
+## 5. Promt  AI - ML - LLM - Llama 2
+
+Berikan semua pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2
+
+<pre><code>ollama run llama2:7b</code></pre>
+
+![ss](./ss/ss-9-ollama-run.png)
+
+
+## 5. Promt  AI - ML - LLM - Llama 2
+
+Berikan semua pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2
+
+<pre><code>ollama run llama2:7b</code></pre>
+
+![ss](./ss/ss-9-ollama-run-sample.png)
+
+
+
 
 
 
