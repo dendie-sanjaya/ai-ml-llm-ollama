@@ -44,7 +44,7 @@ Sebagai contoh akan mendownload Mechine Learning LLM LLAM Version 2
 <pre><code>
 ollama run llama2:7b </code></pre>
 
-![ss](./ss/ss-7-ollama-pull.png)
+![ss](./ss/ss-7-olama-pull.png)
 
 
 ## 2. Ollama Star Server
