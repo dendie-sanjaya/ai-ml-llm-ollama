@@ -13,6 +13,15 @@ sehingga dapat menghasilkan teks yang koheren dan relevan dengan konteks.
 Teknik ini memungkinkan aplikasi seperti chatbot, alat tulis otomatis, d
 an asisten virtual menjadi lebih cerdas dan bermanfaat.
 
+# Table Of Content 
+1. [Ollama Pull LLM](#2-ollama-pull-llm)
+2. [Ollama Star Server](#2-ollama-star-server)
+3. [Ollama List Model LLM](#3-ollama-list-model-llm)
+4. [Running AI ML LLM Llama 2](#4-running-ai-ml-llm-llama-2)
+5. [Prompt AI ML LLM - Llama 2](#5-prompt-ai-ml-llm---llama-2)
+6. [Prompt AI ML LLM Llama 2 Via API](#6-prompt-ai-ml-llm-llama-2-via-api)
+7. [Prompt AI ML LLM Llama 2 - Via API](#7-prompt-ai-ml-llm-llama-2---via-api)
+8. [Prompt AI ML LLM Llama 2 - Via API Integrasi dengan Frontent HTML + Ajax](#8-prompt-ai-ml-llm-llama-2---via-api-integrasi-dengan-frontent-html--ajax)
 
 ## 1. Instalasi Ollama
 
@@ -64,7 +73,7 @@ Cek model LLM yg telah di pull ke server ollama
 ![ss](./ss/ss-8-ollama-list.png)
 
 
-## 4. Running AI - ML - LLM - Llama 2
+## 4. Running AI ML LLM Llama 2
 
 Hidupkan AI - ML - LLM - Llama 2
 
@@ -73,7 +82,7 @@ Hidupkan AI - ML - LLM - Llama 2
 ![ss](./ss/ss-9-ollama-run.png)
 
 
-## 5. Promt  AI - ML - LLM - Llama 2
+## 5. Promt  AI ML LLM - Llama 2
 
 Berikan semua pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2
 
@@ -82,7 +91,7 @@ Berikan semua pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2
 ![ss](./ss/ss-9-ollama-run.png)
 
 
-## 6. Promt  AI - ML - LLM - Llama 2 Via API
+## 6. Promt  AI ML LLM Llama 2 Via API
 
 Berikan semua pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2
 
@@ -96,7 +105,7 @@ Berikan semua pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2
 [![Video Sample Machine Learning 2](https://via.placeholder.com/150)](https://github.com/dendie-sanjaya/ai-ml-llm-ollama/raw/refs/heads/main/ss/ml-test-2.mp4)
 
 
-## 7 . Prompt AI - ML - LLM - Llama 2 - Via API
+## 7 . Prompt AI ML LLM Llama 2 - Via API
 
 Berikan ini memberikan pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2 via API 
 <pre><code>curl -X POST http://127.0.0.1:11434/api/chat -d '{
@@ -109,7 +118,7 @@ Berikan ini memberikan pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2 vi
 [![Video Sample Machine Learning 2](https://via.placeholder.com/150)](https://github.com/dendie-sanjaya/ai-ml-llm-ollama/raw/refs/heads/main/ss/ml-test-3.mp4)
 
 
-## 8 . Prompt AI - ML - LLM - Llama 2 - Via API Integrsi dengan Frontent HTML + AJax
+## 8 . Prompt AI ML LLM Llama 2 - Via API Integrsi dengan Frontent HTML + AJax
 
 Berikut ini contoh script untuk Frontent AI - ML - LLM - Llama 2 yang di integrasikan dengan aplikasi frontend 
 
