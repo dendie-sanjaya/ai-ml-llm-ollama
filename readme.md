@@ -90,9 +90,9 @@ Berikan sebuah pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2
 
 ![ss](./ss/ss-9-ollama-run-sample.png)
 
-[![Video Sample Machine Learning 1](https://via.placeholder.com/150)](https://github.com/dendie-sanjaya/ai-ml-llm-ollama/blob/main/ss/ml-test-1.mp4)
+[![Video Sample Machine Learning 1](https://via.placeholder.com/150)](https://github.com/dendie-sanjaya/ai-ml-llm-ollama/raw/refs/heads/main/ss/ml-test-1.mp4)
 
-[![Video Sample Machine Learning 2](https://via.placeholder.com/150)](https://github.com/dendie-sanjaya/ai-ml-llm-ollama/blob/main/ss/ml-test-2.mp4)
+[![Video Sample Machine Learning 2](https://via.placeholder.com/150)](https://github.com/dendie-sanjaya/ai-ml-llm-ollama/raw/refs/heads/main/ss/ml-test-2.mp4)
 
 
 
