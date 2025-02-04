@@ -82,13 +82,23 @@ Berikan semua pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2
 ![ss](./ss/ss-9-ollama-run.png)
 
 
-## 5. Promt  AI - ML - LLM - Llama 2
+## 6. Promt  AI - ML - LLM - Llama 2
 
-Berikan semua pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2
+Berikan sebuah pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2
 
 <pre><code>ollama run llama2:7b</code></pre>
 
 ![ss](./ss/ss-9-ollama-run-sample.png)
+
+## Video Tutorial
+
+[![Alt text](Video Sample 1)]("./ss/ml-test-1.mp4)
+
+[![Alt text](Video Sample 2)]("./ss/ml-test-2.mp4)
+
+
+
+
 
 
 
