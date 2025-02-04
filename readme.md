@@ -92,9 +92,9 @@ Berikan sebuah pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2
 
 ## Video Tutorial
 
-[![Alt text](Video Sample 1)]("./ss/ml-test-1.mp4)
+[![Video Sample Machine Learning 1](Video Sample 1)]("https://github.com/dendie-sanjaya/ai-ml-llm-ollama/blob/main/ss/ml-test-1.mp4")
 
-[![Alt text](Video Sample 2)]("./ss/ml-test-2.mp4)
+[![Video Sample Machine Learning 1](Video Sample )]("https://github.com/dendie-sanjaya/ai-ml-llm-ollama/blob/main/ss/ml-test-2.mp4")
 
 
 
