@@ -82,7 +82,7 @@ Berikan semua pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2
 ![ss](./ss/ss-9-ollama-run.png)
 
 
-## 6. Promt  AI - ML - LLM - Llama 2
+## 6. Prompt  AI - ML - LLM - Llama 2
 
 Berikan sebuah pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2
 
