@@ -96,7 +96,7 @@ Berikan semua pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2
 [![Video Sample Machine Learning 2](https://via.placeholder.com/150)](https://github.com/dendie-sanjaya/ai-ml-llm-ollama/raw/refs/heads/main/ss/ml-test-2.mp4)
 
 
-##7 . Prompt AI - ML - LLM - Llama 2 - Via API
+## 7 . Prompt AI - ML - LLM - Llama 2 - Via API
 
 Berikan ini memberikan pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2 via API 
 <pre><code>curl -X POST http://127.0.0.1:11434/api/chat -d '{
@@ -109,7 +109,7 @@ Berikan ini memberikan pertanyaan untuk di jawab oleh AI - ML - LLM - Llama 2 vi
 [![Video Sample Machine Learning 2](https://via.placeholder.com/150)](https://github.com/dendie-sanjaya/ai-ml-llm-ollama/raw/refs/heads/main/ss/ml-test-3.mp4)
 
 
-##8 . Prompt AI - ML - LLM - Llama 2 - Via API Integrsi dengan Frontent HTML + AJax
+## 8 . Prompt AI - ML - LLM - Llama 2 - Via API Integrsi dengan Frontent HTML + AJax
 
 Berikut ini contoh script untuk Frontent AI - ML - LLM - Llama 2 yang di integrasikan dengan aplikasi frontend 
 
